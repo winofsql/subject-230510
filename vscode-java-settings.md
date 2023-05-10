@@ -24,4 +24,6 @@
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/f111df90-bde5-4686-9754-860954b0f710)
 - HelloArray.java をクリックしてソースを開く\
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/42a06abd-cb01-44d4-a8a8-6827ea116561)
- 
+- public static void main の上の Run のリンクをクリックして実行\
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/3f3c2b42-6033-4749-b427-76d688ece23e)
+
