@@ -22,4 +22,6 @@
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/12d53bce-3b18-4c5a-be8d-f93b1241b3ad)
 - 配列と ArrayListy をダウンロードして、動作確認
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/f111df90-bde5-4686-9754-860954b0f710)
-
+- HelloArray.java をクリックしてソースを開く\
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/42a06abd-cb01-44d4-a8a8-6827ea116561)
+ 
