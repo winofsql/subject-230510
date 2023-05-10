@@ -6,3 +6,5 @@
 - java-subject.bat を右クリックして開く 
 - git が実行される
 - ダウンロードフォルダに subject3 というフォルダが作成されます\
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/c8e73c53-9a09-4e30-a81b-2aedde300aa1)
+
