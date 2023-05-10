@@ -4,6 +4,7 @@
 - php-subject.bat を右クリックして開く 
 - git が実行される
 - ダウンロードフォルダに subject というフォルダが作成されます\
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/d9beb302-0718-4734-853f-f7134335bb3f)\
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/d9beb302-0718-4734-853f-f7134335bb3f)
+- 以下は subject の中  
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/ec059c62-8189-4af8-b8b2-c326453aae6e)
  
