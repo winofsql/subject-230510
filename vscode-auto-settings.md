@@ -7,4 +7,8 @@
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/d9beb302-0718-4734-853f-f7134335bb3f)
 - **以下は subject の中**\
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/ec059c62-8189-4af8-b8b2-c326453aae6e)
+- しばらくすると以下のダイアログが表示されると処理は完了( 隠れてタスクバーに居る事があるので注意 )\
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/3aee1e9c-8c85-4196-8e14-1aafec839d62)
+
+  
  
