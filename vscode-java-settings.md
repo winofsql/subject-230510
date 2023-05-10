@@ -8,5 +8,6 @@
 - ダウンロードフォルダに subject3 というフォルダが作成されますので、lightbox.code-workspaceを開く\
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/c8e73c53-9a09-4e30-a81b-2aedde300aa1)
 - 設定を選択\
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/8d9dfc90-756b-4bb6-8302-a88bc6fd5a82)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/8d9dfc90-756b-4bb6-8302-a88bc6fd5a82)\
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/62575582-a438-4236-9d8e-df5633d97955)
 
