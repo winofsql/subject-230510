@@ -18,4 +18,7 @@
   - c:\java16 フォルダ
   - c:\app\workspace\lib が作成されて、主なライブラリがダウンロードされる
   - システム環境変数に、JAVA_HOME=c:\java16 が設定される
+- VSCode の拡張をインストール( vscjava.vscode-java-pack )\
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/12d53bce-3b18-4c5a-be8d-f93b1241b3ad)
+ 
 
