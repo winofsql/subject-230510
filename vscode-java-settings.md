@@ -15,6 +15,7 @@
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/8d9dfc90-756b-4bb6-8302-a88bc6fd5a82)
 - Java 環境設定とインストール\
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/6b6b7d83-d4a5-4619-8ddd-3370751257f1)\
-  - java16 フォルダ
+  - c:\java16 フォルダ
   - c:\app\workspace\lib が作成されて、主なライブラリがダウンロードされる
+  - システム環境変数に、JAVA_HOME=c:\java16 が設定される
 
