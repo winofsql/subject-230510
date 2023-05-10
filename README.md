@@ -7,3 +7,6 @@
 
 ### 環境変数ボタンをクリック
 ![image](https://github.com/winofsql/subject-230510/assets/1501327/afd3fb89-5b91-4692-9e4d-8005f93b38e9)
+
+### PATH 環境変数
+![image](https://github.com/winofsql/subject-230510/assets/1501327/8ec489de-a8d2-4931-a01a-e274b36df495)
