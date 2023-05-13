@@ -1,6 +1,6 @@
 ### Gドライブより実行
 - G:\共有ドライブ\SE-WORK-DOWNLOAD\\_vscode\
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/0530e62e-fa8e-4d4d-99c9-319370a12c00)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/1bbfdcbe-cf95-4e31-befb-3382ff057046)
 - php-subject.bat を右クリックして開く 
 - git が実行される
 - ダウンロードフォルダに subject というフォルダが作成されます\
