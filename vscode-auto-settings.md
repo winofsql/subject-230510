@@ -9,7 +9,7 @@
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/373f772b-a518-4264-bee4-1de4d9f9ad00)
   
-- **以下は subject の中**
+- **以下は subject の中** ( 右クリックして『開く』)
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/44c9cc9d-ff69-41d2-a1b7-b16f8252b735)
   
