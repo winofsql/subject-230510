@@ -5,9 +5,9 @@
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/7d8be688-06f3-4f48-9efa-9c5c783bddae)
 
-- java-subject.bat を右クリックして開く 
-- git が実行される
-- ダウンロードフォルダに subject3 というフォルダが作成されますので、lightbox.code-workspaceを右クリックして開く
+  - java-subject.bat を右クリックして開く 
+  - git が実行される
+  - ダウンロードフォルダに subject3 というフォルダが作成されますので、lightbox.code-workspaceを右クリックして開く
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/b9f1ac02-c80b-47ca-9ca0-6211dc9adcc2)
   
