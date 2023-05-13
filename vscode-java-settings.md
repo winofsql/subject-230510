@@ -41,7 +41,7 @@
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/3edfe2e3-3ddc-4250-99e4-300fb4740490)
 
 - #### HelloArray.java をクリックしてソースを開く
-  - Javaプロジェクトの自動作成を待つ ( 右下の Java の更新アイコンが消えるまで )
+  - ***Javaプロジェクトの自動作成を待つ*** ( 右下の Java の更新アイコンが消えるまで )
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/e54b7094-ff18-4fbf-9035-44af0171f1ef)
 
