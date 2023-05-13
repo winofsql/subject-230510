@@ -1,7 +1,7 @@
 ## Java 環境の作成
 
 ### ✅ Gドライブより実行
-- G:\共有ドライブ\SE-WORK-DOWNLOAD\\_vscode
+- #### G:\共有ドライブ\SE-WORK-DOWNLOAD\\_vscode
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/7d8be688-06f3-4f48-9efa-9c5c783bddae)
 
@@ -11,7 +11,7 @@
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/b9f1ac02-c80b-47ca-9ca0-6211dc9adcc2)
   
-- 設定を選択
+- #### 設定を選択
   
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/8d9dfc90-756b-4bb6-8302-a88bc6fd5a82)
   
