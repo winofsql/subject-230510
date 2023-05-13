@@ -16,7 +16,8 @@
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/8d9dfc90-756b-4bb6-8302-a88bc6fd5a82)
   
 
-- 今日の日で( c:\app\worksapce の中に日付付きで作成しなおす )\
+- #### 今日の日で( c:\app\worksapce の中に日付付きで作成しなおす )
+
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/62575582-a438-4236-9d8e-df5633d97955)
 - 設定を選択
 
