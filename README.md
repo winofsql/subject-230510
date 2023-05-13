@@ -10,4 +10,5 @@
 ![image](https://github.com/winofsql/subject-230510/assets/1501327/21233cfb-1f21-4e4f-9e67-ae9aea64682d)
 
 ### 🔶 PATH 環境変数
-![image](https://github.com/winofsql/subject-230510/assets/1501327/8ec489de-a8d2-4931-a01a-e274b36df495)
+![image](https://github.com/winofsql/subject-230510/assets/1501327/3a8b6d06-12a1-4cf1-8a55-e56d61d778e9)
+
