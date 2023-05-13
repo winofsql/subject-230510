@@ -13,8 +13,3 @@
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/44c9cc9d-ff69-41d2-a1b7-b16f8252b735)
   
-- しばらくすると以下のダイアログが表示されると処理は完了( 隠れてタスクバーに居る事があるので注意 )\
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/3aee1e9c-8c85-4196-8e14-1aafec839d62)
-
-  
- 
