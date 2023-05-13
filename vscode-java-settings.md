@@ -36,7 +36,7 @@
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/12d53bce-3b18-4c5a-be8d-f93b1241b3ad)
 
-- #### 配列と ArrayListy をダウンロードして、動作確認
+- #### Java トレーニングメニューに入って、配列と ArrayListy をダウンロードして、動作確認
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/f111df90-bde5-4686-9754-860954b0f710)
 
