@@ -42,10 +42,11 @@
 
 - #### HelloArray.java をクリックしてソースを開く
   - ***Javaプロジェクトの自動作成を待つ*** ( 右下の Java の更新アイコンが消えるまで )
+  - #### public static void main の上の Run のリンクをクリックして実行
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/e54b7094-ff18-4fbf-9035-44af0171f1ef)
 
-- #### public static void main の上の Run のリンクをクリックして実行
+- #### ターミナル内でEnter キー待ちになるので、続きを表示させる
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/3f3c2b42-6033-4749-b427-76d688ece23e)
 
