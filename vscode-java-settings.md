@@ -38,7 +38,7 @@
 
 - #### Java トレーニングメニューに入って、配列と ArrayListy をダウンロードして、動作確認
 
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/f111df90-bde5-4686-9754-860954b0f710)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/3edfe2e3-3ddc-4250-99e4-300fb4740490)
 
 - HelloArray.java をクリックしてソースを開く
 
