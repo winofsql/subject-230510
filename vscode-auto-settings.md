@@ -1,4 +1,4 @@
-### Gドライブより実行
+### ✅ Gドライブより実行
 - G:\共有ドライブ\SE-WORK-DOWNLOAD\\_vscode
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/1bbfdcbe-cf95-4e31-befb-3382ff057046)
