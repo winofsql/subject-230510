@@ -13,8 +13,7 @@
   
 - #### 設定を選択
   
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/8d9dfc90-756b-4bb6-8302-a88bc6fd5a82)
-  
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/d7eddf70-bfab-4bec-93a7-54e3d34803da)
 
 - #### 今日の日で( c:\app\worksapce の中に日付付きで作成しなおす )
 
