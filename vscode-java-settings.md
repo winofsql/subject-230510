@@ -27,9 +27,10 @@
 
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/9cb16342-ccad-48bd-82e7-f8b88dffdcf0)
   
-  - c:\java16 フォルダ
-  - c:\app\workspace\lib が作成されて、主なライブラリがダウンロードされる
-  - システム環境変数に、JAVA_HOME=c:\java16 が設定される
+  - ***c:\java16 フォルダ***
+  - ***c:\app\workspace\lib が作成されて、主なライブラリがダウンロードされる***
+  - ***システム環境変数に、JAVA_HOME=c:\java16 が設定される***
+
 - VSCode の拡張をインストール( vscjava.vscode-java-pack )\
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/12d53bce-3b18-4c5a-be8d-f93b1241b3ad)
 - 配列と ArrayListy をダウンロードして、動作確認
