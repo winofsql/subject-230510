@@ -30,13 +30,21 @@
   - ***c:\java16 フォルダ***
   - ***c:\app\workspace\lib が作成されて、主なライブラリがダウンロードされる***
   - ***システム環境変数に、JAVA_HOME=c:\java16 が設定される***
+<br><br>
 
-- VSCode の拡張をインストール( vscjava.vscode-java-pack )\
+- #### VSCode の拡張をインストール( vscjava.vscode-java-pack )
+
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/12d53bce-3b18-4c5a-be8d-f93b1241b3ad)
-- 配列と ArrayListy をダウンロードして、動作確認
+
+- #### 配列と ArrayListy をダウンロードして、動作確認
+
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/f111df90-bde5-4686-9754-860954b0f710)
-- HelloArray.java をクリックしてソースを開く\
+
+- HelloArray.java をクリックしてソースを開く
+
   ![image](https://github.com/winofsql/subject-230510/assets/1501327/42a06abd-cb01-44d4-a8a8-6827ea116561)
-- public static void main の上の Run のリンクをクリックして実行\
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/3f3c2b42-6033-4749-b427-76d688ece23e)
+
+- public static void main の上の Run のリンクをクリックして実行
+
+![image](https://github.com/winofsql/subject-230510/assets/1501327/3f3c2b42-6033-4749-b427-76d688ece23e)
 
