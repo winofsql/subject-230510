@@ -21,7 +21,7 @@
 
 - #### 日付付きの subject で再度設定を選択
 
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/8d9dfc90-756b-4bb6-8302-a88bc6fd5a82)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/25bb3079-f4ed-47a7-a007-3a8e2dc8b72a)
 
 - #### Java 環境設定とインストール
 
