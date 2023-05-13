@@ -42,7 +42,7 @@
 
 - #### HelloArray.java をクリックしてソースを開く
 
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/42a06abd-cb01-44d4-a8a8-6827ea116561)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/e54b7094-ff18-4fbf-9035-44af0171f1ef)
 
 - #### public static void main の上の Run のリンクをクリックして実行
 
