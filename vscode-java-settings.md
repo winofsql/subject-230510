@@ -46,5 +46,5 @@
 
 - public static void main の上の Run のリンクをクリックして実行
 
-![image](https://github.com/winofsql/subject-230510/assets/1501327/3f3c2b42-6033-4749-b427-76d688ece23e)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/3f3c2b42-6033-4749-b427-76d688ece23e)
 
