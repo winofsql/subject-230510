@@ -3,7 +3,7 @@
 ### ✅ Gドライブより実行
 - #### G:\共有ドライブ\SE-WORK-DOWNLOAD\\_vscode
 
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/7d8be688-06f3-4f48-9efa-9c5c783bddae)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/203703e7-cd97-4662-b410-554433af4246)
 
   - java-subject.bat を右クリックして開く 
   - git が実行される
