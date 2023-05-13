@@ -1,5 +1,6 @@
 ### ターミナルコマンドのメニュー
 - 初期表示
  
-  ![image](https://github.com/winofsql/subject-230510/assets/1501327/96cd128c-f1ce-4451-ac9d-6f63dcb0e92e)
+  ![image](https://github.com/winofsql/subject-230510/assets/1501327/81bc4bb3-30bb-44da-8465-33bd5455156f)
+
 
